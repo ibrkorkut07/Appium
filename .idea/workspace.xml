@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="82306ef4-1006-4196-a792-992abf9e010b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Appium/Appium03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Appium/Appium03.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,9 +34,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\Desktop\TECHPRO\SELENIUM B44 (TUR)\Appium\src\test\java\Appium" />
       <recent name="C:\Users\HP\Desktop\TECHPRO\SELENIUM B44 (TUR)\Appium" />
       <recent name="C:\Users\HP\Desktop\TECHPRO\SELENIUM B44 (TUR)\Appium\.idea" />
-      <recent name="C:\Users\HP\Desktop\TECHPRO\SELENIUM B44 (TUR)\Appium\src\test\java\Appium" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
