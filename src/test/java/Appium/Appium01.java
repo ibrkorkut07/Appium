@@ -25,6 +25,7 @@ public class Appium01 {
         desiredCapabilities.setCapability(MobileCapabilityType.PLATFORM_NAME,"Android");
         desiredCapabilities.setCapability(MobileCapabilityType.DEVICE_NAME,"Emulator");
         desiredCapabilities.setCapability(MobileCapabilityType.PLATFORM_VERSION,"10.0");
+        desiredCapabilities.setCapability(MobileCapabilityType.APP, "C:\\Users\\HP\\Desktop\\TECHPRO\\SELENIUM B44 (TUR)\\Appium\\Apps\\gestureTool.apk");
 //http://localhost:4723/wd/hub
 // 1.         AndroidDriver<MobileElement> driver = new AndroidDriver<MobileElement>(new URL("http://127.0.0.1:4723/wd/hub"),desiredCapabilities);
 //    or
